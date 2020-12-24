@@ -3,9 +3,10 @@
 This project was done for the Waterloo Data Science 1: Foundations of Data Science course.
 Co-authored by: qhamzah97 and pygmie73
   
-In the project, analysis of the House Sales data in the King County, USA took place for the timeframe of May 2014 to May 2015.
-Dataset for this was found on Kaggle through the following site: https://www.kaggle.com/harlfoxem/housesalesprediction
+In the project, we analyzed residential property sales data in the King County, USA over the timeframe 2014-2015.
+The public dataset for was found on Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
+
+Our aim was to create a grading system that would correlate with the sales prices better than the county's official property grades. 
+Three different Machine Learning Models (Multiple Linear Regression, Random Forest, and Artificial Neural Network) were considered.
   
-Along with data analysis, 3 different Machine Learning Models (Multiple Linear Regression, Random Forest, and Artificial Neural Network) 
-were used for the aim to develop a better prediction model for the residential sales and point system for the properties in the
-King County.
+We successfully developed a (Random Forest) model that uses far less parameters but yet correlates with sales price significantly higher than does the King County's grade.
