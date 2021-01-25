@@ -1,7 +1,7 @@
 # King-County-House-Analysis
 
 This project was done for the Waterloo Data Science 1: Foundations of Data Science course.
-Co-authored by: qhamzah97 and pygmie73
+Co-authored by: qhamzah97, pygmie73 and wtang9
   
 In the project, we analyzed residential property sales data in the King County, USA over the timeframe 2014-2015.
 The public dataset for was found on Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
